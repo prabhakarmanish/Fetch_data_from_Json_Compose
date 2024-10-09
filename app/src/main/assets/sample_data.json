@@ -1,0 +1,292 @@
+[
+  {
+    "name": "John Doe",
+    "age": 30,
+    "occupation": "Software Engineer",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zip": "12345"
+    },
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android",
+      "Compose"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project A",
+        "description": "A short description of Project A",
+        "completed": true
+      },
+      {
+        "name": "Project B",
+        "description": "A short description of Project B",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "age": 28,
+    "occupation": "Frontend Developer",
+    "address": {
+      "street": "456 Park Ave",
+      "city": "Springfield",
+      "zip": "67890"
+    },
+    "skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project Alpha",
+        "description": "A short description of Project Alpha",
+        "completed": true
+      },
+      {
+        "name": "Project Beta",
+        "description": "A short description of Project Beta",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Alice Johnson",
+    "age": 35,
+    "occupation": "Backend Developer",
+    "address": {
+      "street": "789 Elm St",
+      "city": "Metropolis",
+      "zip": "54321"
+    },
+    "skills": [
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "AWS"
+    ],
+    "is_active": false,
+    "projects": [
+      {
+        "name": "Project X",
+        "description": "A short description of Project X",
+        "completed": false
+      },
+      {
+        "name": "Project Y",
+        "description": "A short description of Project Y",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "name": "Bob Williams",
+    "age": 40,
+    "occupation": "DevOps Engineer",
+    "address": {
+      "street": "101 Oak St",
+      "city": "Gotham",
+      "zip": "11122"
+    },
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Terraform"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project Cloud",
+        "description": "A short description of Project Cloud",
+        "completed": true
+      },
+      {
+        "name": "Project Pipeline",
+        "description": "A short description of Project Pipeline",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 32,
+    "occupation": "Fullstack Developer",
+    "address": {
+      "street": "234 Maple St",
+      "city": "Hill Valley",
+      "zip": "90210"
+    },
+    "skills": [
+      "Vue.js",
+      "Node.js",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "is_active": false,
+    "projects": [
+      {
+        "name": "Project Omega",
+        "description": "A short description of Project Omega",
+        "completed": true
+      },
+      {
+        "name": "Project Delta",
+        "description": "A short description of Project Delta",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Dave Harris",
+    "age": 25,
+    "occupation": "Mobile Developer",
+    "address": {
+      "street": "567 Birch St",
+      "city": "Smallville",
+      "zip": "32345"
+    },
+    "skills": [
+      "Swift",
+      "iOS",
+      "Xcode",
+      "CoreData"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project AppOne",
+        "description": "A short description of Project AppOne",
+        "completed": true
+      },
+      {
+        "name": "Project AppTwo",
+        "description": "A short description of Project AppTwo",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Eve Martinez",
+    "age": 27,
+    "occupation": "Data Scientist",
+    "address": {
+      "street": "987 Cherry St",
+      "city": "Star City",
+      "zip": "76543"
+    },
+    "skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "Pandas"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project Analysis",
+        "description": "A short description of Project Analysis",
+        "completed": true
+      },
+      {
+        "name": "Project Model",
+        "description": "A short description of Project Model",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Frank Clark",
+    "age": 38,
+    "occupation": "Security Specialist",
+    "address": {
+      "street": "123 Pine St",
+      "city": "Rivertown",
+      "zip": "22233"
+    },
+    "skills": [
+      "Penetration Testing",
+      "Cybersecurity",
+      "Ethical Hacking",
+      "Python"
+    ],
+    "is_active": false,
+    "projects": [
+      {
+        "name": "Project Secure",
+        "description": "A short description of Project Secure",
+        "completed": false
+      },
+      {
+        "name": "Project Guard",
+        "description": "A short description of Project Guard",
+        "completed": true
+      }
+    ]
+  },
+  {
+    "name": "Grace Lee",
+    "age": 29,
+    "occupation": "UI/UX Designer",
+    "address": {
+      "street": "345 Walnut St",
+      "city": "Newtown",
+      "zip": "67812"
+    },
+    "skills": [
+      "Figma",
+      "Sketch",
+      "Adobe XD",
+      "Prototyping"
+    ],
+    "is_active": true,
+    "projects": [
+      {
+        "name": "Project DesignOne",
+        "description": "A short description of Project DesignOne",
+        "completed": true
+      },
+      {
+        "name": "Project DesignTwo",
+        "description": "A short description of Project DesignTwo",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "name": "Hank Rivera",
+    "age": 31,
+    "occupation": "QA Engineer",
+    "address": {
+      "street": "789 Willow St",
+      "city": "Oak City",
+      "zip": "54367"
+    },
+    "skills": [
+      "Selenium",
+      "JUnit",
+      "TestNG",
+      "CI/CD"
+    ],
+    "is_active": false,
+    "projects": [
+      {
+        "name": "Project QAOne",
+        "description": "A short description of Project QAOne",
+        "completed": false
+      },
+      {
+        "name": "Project QATwo",
+        "description": "A short description of Project QATwo",
+        "completed": true
+      }
+    ]
+  }
+]
